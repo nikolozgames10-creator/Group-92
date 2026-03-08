@@ -15,8 +15,8 @@ total = num1 + num2
 #ჯამი
 print(total)
 
-mother_name = input("შეიყვანეთ დედის ასაკი: ")
-father_name = input("შეიყვანეთ მამის ასაკი: ")
+mother_age = input("შეიყვანეთ დედის ასაკი: ")
+father_Age = input("შეიყვანეთ მამის ასაკი: ")
 my_name = input("შეიყვანეთ თქვენი სახელი: " )
 
 city = input("შეიყვანეთ თქვენი ქალაქი: " )
@@ -25,7 +25,7 @@ building = input("შემოიყვანეთ თქვენი კორ
 floor = input("შემოიყვანეთ თქვენი სართეული: ")
 
 print("ქალაქი", city)
-print("უბანი",district)
+print("უბანი", district)
 print("კორპუსი", building)
 print("სართული", floor)
 
