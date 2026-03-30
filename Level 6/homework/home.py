@@ -57,10 +57,11 @@ Average = (num1 + num2 + num3 + num4 + num5)/5
 print("საშუალო არითმეტიკული არის:", Average)
 
 #8
-ame = input("შეიყვანე სახელი: ")
+name = input("შეიყვანე სახელი: ")
 surname = input("შეიყვანე გვარი: ")
 age = input("შეიყვანე ასაკი: ")
 height = input("შეიყვანე სიმაღლე: ")
 weight = input("შეიყვანე წონა: ")
 
 print("ჩემი სახელია", name, surname + ", მე ვარ", age, "წლის, ჩემი სიმაღლეა", height, "და ჩემი წონაა", weight + ".")
+
